@@ -2,6 +2,11 @@
 
 RNNoise installation and control script for PulseAudio on Linux.
 
+This script is based on the following projects:
+
+- https://github.com/werman/noise-suppression-for-voice
+- https://github.com/xiph/rnnoise
+
 ## Usages
 
 You need to have `python3` installed.
